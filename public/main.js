@@ -1,4 +1,4 @@
-const URL = "http://localhost:3000";
+const URL = "http://ec2-54-194-27-208.eu-west-1.compute.amazonaws.com";
 
 const renderMessage = (messages) => {
   const messagesContainer = document.getElementById("messages-container");
